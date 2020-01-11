@@ -3,7 +3,7 @@ Prediction of protein crotonylation sites through LightGBM classifier with multi
 
 ###LightGBM-CroSite uses the following dependencies:
 * MATLAB2014a
-* python 3.6 
+* python 3.7 
 * numpy
 * scipy
 * scikit-learn
@@ -30,7 +30,7 @@ Prediction of protein crotonylation sites through LightGBM classifier with multi
    LLE.py represents the locally linear embedding.
    MDS.py represents the multiple dimensional scaling.
    
-**SMOTE method 
+**SMOTE method： 
    SMOTE.R represents the synthetic minority oversampling technique. 
   
 **Classifier:
