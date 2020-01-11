@@ -30,7 +30,7 @@ Prediction of protein crotonylation sites through LightGBM classifier with multi
    LLE.py represents the locally linear embedding.
    MDS.py represents the multiple dimensional scaling.
    
-**SMOTE method： 
+**SMOTE method: 
    SMOTE.R represents the synthetic minority oversampling technique. 
   
 **Classifier:
